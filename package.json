@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://akhil3355.github.io/Contact-app",
   "name": "contact-app",
   "version": "0.1.0",
   "private": true,
@@ -37,4 +37,6 @@
       "last 1 safari version"
     ]
   }
+ 
+
 }
